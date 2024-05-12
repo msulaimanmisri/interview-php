@@ -2,7 +2,8 @@
 declare(strict_types= 1);
 
 /**
- * This task is to complete the Live coding session with the Lead Developer from the company that I applied for Senior PHP Developer position.
+ * This task is to complete the Live coding session with the Lead Developer from the company
+ * that I applied for the Senior PHP Developer position.
  * 
  * I've asked his permission to publish this code.
  * 
