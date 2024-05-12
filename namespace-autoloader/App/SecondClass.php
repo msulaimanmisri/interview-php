@@ -7,6 +7,7 @@ class SecondClass {
   
     public function __construct(
         public int $salary,
+        public string $bankName,
         public string $accountBankNumber
     ) {}
   
